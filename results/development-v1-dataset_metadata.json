@@ -1,0 +1,20 @@
+[
+  {
+    "subject": 1,
+    "file_sha256": "8cb4217a6f72466448b8259bb8f072c25f81437c075b0619ea14686eea0848b2",
+    "character_schedule_verified": true,
+    "fit_characters": 22,
+    "development_characters": 11,
+    "minimum_flash_gap_ms": 20,
+    "index_origin": "public MATLAB t convention, one-based converted"
+  },
+  {
+    "subject": 2,
+    "file_sha256": "e911d4e268dfb166c90a3ee0ec420ccd7b03df53823fa3df369f0ebbd66b07d6",
+    "character_schedule_verified": true,
+    "fit_characters": 22,
+    "development_characters": 11,
+    "minimum_flash_gap_ms": 10,
+    "index_origin": "public MATLAB t convention, one-based converted"
+  }
+]

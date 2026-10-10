@@ -1,0 +1,15 @@
+{
+  "scope": "synthetic mathematical correctness only, not EEG efficacy or novelty",
+  "seed": 20261010,
+  "tests_run": 6,
+  "failures": 0,
+  "errors": 0,
+  "passed": true,
+  "python": "3.13.15",
+  "source_sha256": {
+    "test_p300_timing.py": "9a1ce0e5ffb77c2d5e88104c7b44a746ccef6d3ea74803de1a3bca540aa2766b",
+    "p300_timing.py": "0f2e93fe2fd6d14b4b3bbaf2ae2b2adaa4d0bf510e09887cdb41e88275bbc1bb"
+  },
+  "data_accessed": false,
+  "gpu": false
+}
