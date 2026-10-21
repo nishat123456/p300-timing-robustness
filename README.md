@@ -1,6 +1,6 @@
 # P300 timing robustness study
 
-Private development repository. The study evaluates offline sparse marker changes while preserving EEG waveform samples, flash membership and strict temporal order. Certificates protect prediction invariance within the stated uncertainty set, not correctness.
+Development research repository. The study evaluates offline sparse marker changes while preserving EEG waveform samples, flash membership and strict temporal order. Certificates protect prediction invariance within the stated uncertainty set, not correctness.
 
 ## Current evidence
 
@@ -11,7 +11,7 @@ Private development repository. The study evaluates offline sparse marker change
 
 ## Data boundary
 
-All EEG processing occurs on Kaggle. Raw recordings live in temporary cloud storage and are deleted after processing. This repository contains source, protocol and compact metadata/results only. Original test EEG is not used in development. No Professor X work belongs in this repository.
+All EEG processing occurs on Kaggle. Raw recordings live in temporary cloud storage and are deleted after processing. This repository contains source, protocol and compact metadata/results only. Original test EEG is not used in development. No unrelated backdoor benchmark is included in this repository.
 
 ## Reproduction
 
